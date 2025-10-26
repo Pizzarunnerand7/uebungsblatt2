@@ -7,6 +7,5 @@ public class P2_main {
 		if (i>10) {
 			b = true;
 		}	
-		System.out.println(b);
 	}
 }

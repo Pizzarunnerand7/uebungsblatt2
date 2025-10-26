@@ -6,6 +6,5 @@ public class H1_main {
 		if (z>10) {
 			z =  z-10;
 		}
-		System.out.print(z);
 	}
 }

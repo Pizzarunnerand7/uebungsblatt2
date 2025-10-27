@@ -5,13 +5,13 @@ public class P3_main {
 		int i = 10;
 		int j = 3;
 		int k = 5;
-		if (i<j) {
+		if (i < j) {
 			System.out.println("A");
 		}
-		if (i<k) {
+		if (i < k) {
 			System.out.println("B");
 		}
-		if (j<k) {
+		if (j < k) {
 			System.out.println("C");
 		}
 	}

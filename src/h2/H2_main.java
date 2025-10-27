@@ -7,22 +7,22 @@ public class H2_main {
 		int k = 6;
 		int min = 0;
 		int max = 0;
-		if (i>j && i>k) {
+		if (i > j && i > k) {
 			max = i;
 		}
-		if (j>k && j>i) {
+		if (j > k && j > i) {
 			max = j;
 		}
-		if (k>j && k>i) {
+		if (k > j && k > i) {
 			max = k;
 		}
-		if (i<j && i<k) {
+		if (i < j && i < k) {
 			min = i;
 		}
-		if (j<k && j<i) {
+		if (j < k && j < i) {
 			min = j;
 		}
-		if (k<i && k<j) {
+		if (k < i && k < j) {
 			min = k;
 		}
 	}

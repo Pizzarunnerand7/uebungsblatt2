@@ -5,9 +5,9 @@ public class H3_main {
 		int i = 300;
 		int j = 400;
 		int k = -10;
-		boolean a1 = i>j;
-		boolean a2 =  i>200;
-		boolean a3 = j>100;
+		boolean a1 = i > j;
+		boolean a2 = i > 200;
+		boolean a3 = j > 100;
 		if (a1 && !a2 && !a3) {
 			k = 1;
 		}
